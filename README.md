@@ -42,7 +42,7 @@
 
 - 💌 Email: sarishti@example.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarishti-35b57b322/)  
-- 🧠 [My GitHub Projects](https://github.com/sarishti-dev?tab=repositories)
+- 🧠 [My GitHub Projects](https://github.com/sarishti845?tab=repositories)
 
 ---
 
