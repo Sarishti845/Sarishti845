@@ -40,7 +40,7 @@
 
 ## 📫 Let's Connect
 
-- 💌 Email: sarishti@example.com  
+- 💌 Email: sarishti260@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarishti-35b57b322/)  
 - 🧠 [My GitHub Projects](https://github.com/sarishti845?tab=repositories)
 
