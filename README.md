@@ -22,6 +22,18 @@
 - 📚 Learning every day and turning ideas into real-world deployable systems
 - 🎯 Goal: **Build impactful AI systems, contribute through open source, and solve real-world problems**
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarishti845&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="95%" />
+</p>
+
 ---
 
 ## 🌐 Socials
@@ -82,26 +94,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sarishti845&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarishti845&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarishti845/Sarishti845/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarishti845/Sarishti845/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </p>
 
 ---
