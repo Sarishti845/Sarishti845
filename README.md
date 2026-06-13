@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Sarishti&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20IoT&descAlignY=58&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Sarishti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%" />
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sarishti+%F0%9F%91%8B;Software+Engineer+%7C+AI%2FML+%7C+Full+Stack;Amazon+ML+Summer+School+2025+Selectee;Building+Intelligent+Systems+at+Scale;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
@@ -23,9 +31,7 @@
 🎯 Goal: **Build impactful AI systems, contribute through open source, and solve real-world problems**
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Sarishti;AI%2FML+System+Architect;Full+Stack+Developer;Open+Source+Contributor;Building+Intelligent+Systems" alt="Typing SVG" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </p>
 
 <p align="center">
